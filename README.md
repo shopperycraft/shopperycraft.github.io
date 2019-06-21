@@ -2,6 +2,8 @@
 ### https://shopperycraft.github.io
 The official website for ShopperyCraft.
 
+![](https://shopperycraft.github.io/images/shoppery/shoppery_200x105.png)
+
 Written in html, css, and javascript and hosted by Github pages. This website
 serves as the homepage, wiki, faq and changelog for the ShopperyCraft Mod as well
 as hosts files needed for the ShopperyCraft mod (such as the latest version number).
