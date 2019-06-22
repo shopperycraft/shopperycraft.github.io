@@ -1,0 +1,36 @@
+/*
+Copyright (C) 2019 Ki11er_wolf
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/>.
+*/
+
+.navbar-link {
+    border: none;
+    border-bottom: 3px solid gold;
+    color: lightgray;
+    background-color: transparent;
+    margin-right: 5px;
+}
+
+.navbar-link-active {
+    border: none;
+    border-bottom: 3px solid greenyellow;
+    color: lightgray;
+    background-color: transparent;
+    margin-right: 5px;
+}
+
+.navbar-link:hover {
+    border-bottom: 3px solid yellow;
+}
